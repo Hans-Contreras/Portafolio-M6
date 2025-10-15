@@ -1,0 +1,5 @@
+ID,Edad,Ciudad,Ingresos_USD,Ingresos_USD_imputado,Ciudad_label,Ciudad_Barcelona,Ciudad_Madrid,Ciudad_Sevilla,CiudadDummy_Madrid,CiudadDummy_Sevilla,Edad_minmax,Ingresos_minmax,Edad_zscore,Ingresos_zscore
+1,25,Madrid,30000.0,30000.0,1,0.0,1.0,0.0,True,False,0.0,0.0,-1.2649110640673518,-1.4142135623730951
+2,45,Sevilla,50000.0,50000.0,2,0.0,0.0,1.0,False,True,1.0,1.0,1.2649110640673518,1.4142135623730951
+3,30,Madrid,,40000.0,1,0.0,1.0,0.0,True,False,0.25,0.5,-0.6324555320336759,0.0
+4,40,Barcelona,40000.0,40000.0,0,1.0,0.0,0.0,False,False,0.75,0.5,0.6324555320336759,0.0
